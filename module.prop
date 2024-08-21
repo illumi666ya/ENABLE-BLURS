@@ -1,0 +1,8 @@
+id=OOSBLUR
+name=AOSP Blurs Enable
+version=V1-STABLE
+versionCode=1
+author=ILLUMI
+description=With the help of some build.prop commands, module enables native android blurs.
+support=https://bento.me/illumi
+donate=https://www.paypal.com/paypalme/faniadittiya

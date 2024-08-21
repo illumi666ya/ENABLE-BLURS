@@ -1,0 +1,24 @@
+#   ____   ____  __  __  _____  _  _  ____   ___ 
+#  (  _ \ ( ___)(  \/  )(  _  )( \( )(_  _) / __)
+#   )(_) ) )__)  )    (  )(_)(  )  (  _)(_ ( (__ 
+#  (____/ (____)(_/\/\_)(_____)(_)\_)(____) \___)
+#   ___  _  _  ___  ____  ____  __  __    ____  ____  _____  ____ 
+#  / __)( \/ )/ __)(_  _)( ___)(  \/  )  (  _ \(  _ \(  _  )(  _ \
+#  \__ \ \  / \__ \  )(   )__)  )    (    )___/ )   / )(_)(  )___/
+#  (___/ (__) (___/ (__) (____)(_/\/\_)()(__)  (_)\_)(_____)(__)  
+
+# ENABLE BLURS AOSP
+ro.sf.blurs_are_expensive=1
+ro.sf.blurs_are_caro=1
+ro.miui.has_real_blur=1
+ro.launcher.blur.appLaunch=1
+ro.surface_flinger.supports_background_blur=1
+debug.sf.latch_unsignaled=1
+debug.sf.disable_backpressure=1
+persist.sys.background_blur_supported=true
+persist.sys.sf.disable_blurs=false
+persist.sys.sf.disable_blurs=0
+persist.sysui.disableBlur=false
+disableBlurs=false
+disableBackgroundBlur=false
+enable_blurs_on_windows=1
